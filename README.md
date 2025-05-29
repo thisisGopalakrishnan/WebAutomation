@@ -1,2 +1,2 @@
 # WebAutomation
-this repository for automate the Web applications
+This repository for automate the Web applications
