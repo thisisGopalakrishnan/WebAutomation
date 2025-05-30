@@ -8,9 +8,10 @@ public class Array {
 
 	public static void single_diamention_() {
 		// inputs
-		
+	
 		int arr[] = { 4, 2, 3, 7 };
 		int B[] = { 1, 2, 2, 3, 4, 5, 5, 6, 7, 7 };
+
 		int ip[] = new int[5];
 		String[] name = { "gopal", "sheik", "vasanth", "Abisheik" };
 		String countofthename = "Gopalakrishana";
