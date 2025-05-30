@@ -9,7 +9,7 @@ public class Array {
 	public static void single_diamention_() {
 		// inputs
 		
-		int arr[] = { 4, 2, 3, 1 };
+		int arr[] = { 5,4, 2, 3, 1 };
 		int B[] = { 1, 2, 2, 3, 4,,4 5, 5, 6, 7, 7,8 };
 		int ip[] = new int[5];
 		String[] name = { "gopal", "sheik", "vasanth", "Abisheik" };
