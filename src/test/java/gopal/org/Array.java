@@ -10,7 +10,7 @@ public class Array {
 		// inputs
 		
 		int arr[] = { 4, 2, 3, 1 };
-		int B[] = { 1, 2, 2, 3, 4, 5, 5, 6, 7, 7 };
+		int B[] = { 1, 2, 2, 3, 4,,4 5, 5, 6, 7, 7,8 };
 		int ip[] = new int[5];
 		String[] name = { "gopal", "sheik", "vasanth", "Abisheik" };
 		String countofthename = "Gopalakrishana";
